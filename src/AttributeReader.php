@@ -1,6 +1,6 @@
 <?php
 
-namespace Adt\DoctrineLoggable\Mapping\Driver;
+namespace ADT\AttributeReader;
 
 use Attribute;
 use Doctrine\Common\Annotations\Reader;
